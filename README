@@ -1,0 +1,13 @@
+
+This is a functional programming "kernel" - hence its the name "kernel.py". 
+
+It provides : 
+ • some building blocks for function currying and easy function composition
+   through a kind of monadic class "F", rop and op partial operator objects and
+   other helper functions.
+
+ • miscellaneous utilities to be used from the command line like quickly
+   reading or writing file, manipulating files, or editing some snippet of code
+   in a external editor and then running it in the current context.
+
+
